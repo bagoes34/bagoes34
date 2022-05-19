@@ -1,0 +1,6 @@
+*~
+*.swp
+**/.terraform/
+target/
+**/*Dockerfile
+docker/update_or_build.sh
