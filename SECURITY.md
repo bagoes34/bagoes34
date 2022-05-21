@@ -1,7 +1,7 @@
 # Security
 
 As Aptos Core is currently in the prototype stage and does not power a blockchain with a cryptocurrency that has real-world value, our security procedures are not fully in place. We will release a more complete disclosure policy prior to the launch of the mainnet.
-
+xyj
 ## Reporting a Bug
 
 The Aptos Core team and community take all security bugs in the Aptos project seriously to ensure the security of the Aptos Blockchain.
