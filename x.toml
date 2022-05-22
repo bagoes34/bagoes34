@@ -4,7 +4,7 @@ version = "0.8.2"
 [system-tests]
 smoke-test = { path = "smoke-test" }
 testcases = { path = "testsuite/testcases" }
-
+nhy
 [cargo.sccache]
 bucket = "ci-artifacts.aptoslabs.com"
 prefix = "sccache/aptos/"
